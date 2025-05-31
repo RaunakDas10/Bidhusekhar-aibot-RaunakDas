@@ -1,3 +1,33 @@
+Bidhusekhar v1.0 Release 🚀
+
+Get ready to experience intelligent conversations with Bidhusekhar, your AI-powered chatbot! 🤖✨
+
+*What's New:*
+
+- Natural Language Processing (NLP) for smart, human-like conversations 🤝
+- Dynamic conversation flows for engaging interactions ⚡
+- Light Mode & Dark Mode support for a seamless experience 🌓
+- Fully responsive design for optimal performance across devices 📱💻
+
+*Download & Get Started:*
+
+1. Download the APK from the assets section below.
+2. Enable installation from unknown sources on your device.
+3. Install and explore Bidhusekhar's capabilities! 🚀
+
+*Built with:*
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Python
+
+*Stay Tuned:*
+
+Expect exciting upgrades and updates soon! 🔥
+
+#AI #Chatbot #MachineLearning #DeepLearning #NLP #Android #APKRelease #Bidhusekhar
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
