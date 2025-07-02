@@ -1,4 +1,4 @@
-Bidhusekhar v1.0 Release 🚀
+## Bidhusekhar v1.0 Release 🚀
 
 Get ready to experience intelligent conversations with Bidhusekhar, your AI-powered chatbot! 🤖✨
 
