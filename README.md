@@ -30,6 +30,19 @@ Expect exciting upgrades and updates soon! 🔥
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## LICENSE
+© 2025 Raunak Das. All rights reserved.
+
+This project and its source code are proprietary and confidential.
+
+You may not:
+- Use, copy, modify, or distribute this code
+- Include any part of this code in other projects
+- Deploy or republish any portion without written permission
+
+Credit must be given if any concept or design is reused with permission.
+
+
 ## Getting Started
 
 First, run the development server:
